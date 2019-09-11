@@ -1,3 +1,10 @@
+# Hello
+
+Hi from Oakland. 
+
+This repository collects links to code projects I've worked
+on or think about. 
+
 # Projects
 
 Links to things I've made in various levels of bitrot:
@@ -9,3 +16,15 @@ Links to things I've made in various levels of bitrot:
 - [Note Taking Journal](https://github.com/dbelford/hugo-journal-theme) A hugo theme[demo](https://journal.dbelford.com) 
   - I use Purescript watcher/Makefile to turn Notational Velocity style note taking dbs (nvAlt) into a searchable webpage
 - [Personal Website](dbelford.com)
+
+# Languages
+
+I've tried out many languages and generally decided I like statically typed languages that have IDEs.
+
+I've tried making things with ActionScript 2, 3, 4, Obj-C, Swift, Javascript, Typescript, Jquery, Angular 1, React.
+
+I've tinkered a little bit with Haskell, Purescript, Go, Ruby and taken classes using Python, Scheme.
+
+I've read K&R and C++ in 21 days.
+
+At this point I'm looking for one ecosystem I can spend most of my time in.
