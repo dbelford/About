@@ -13,9 +13,11 @@ Links to things I've made in various levels of bitrot:
 - [Color Picker](http://dbelford.com/colorful/) (Bootstrap and Angular 1.0)
 - [Itineraries](github.com/dbelford/itineraries) a Jekyll based site for collecting day trips [demo](http://www.wongjennifer.com/itineraries/)
 - [Obj-C Library Browser](http://dbelford.github.io/Obj-Compendium/#) (using Jquery) like an awesome list before I learned of those
-- [Note Taking Journal](https://github.com/dbelford/hugo-journal-theme) A hugo theme[demo](https://journal.dbelford.com) 
+- [Note Taking Journal](https://github.com/dbelford/hugo-journal-theme) A hugo theme [demo](https://journal.dbelford.com) 
   - I use Purescript watcher/Makefile to turn Notational Velocity style note taking dbs (nvAlt) into a searchable webpage
 - [Personal Website](dbelford.com)
+
+And there's probably a dozen more piles of project code somewhere...
 
 # Languages
 
